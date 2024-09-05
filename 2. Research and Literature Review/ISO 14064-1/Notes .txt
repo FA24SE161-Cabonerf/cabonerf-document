@@ -1,0 +1,4 @@
+Notes: 
+	- Đây là folder sẽ chứa những notes tóm tắt từ các tài lieu nghiên cứu
+	- Chú ý mỗi một folder con trong này sẽ là đại diện 1 hàng tài liệu tương ứng với title 	của research papers 
+	
